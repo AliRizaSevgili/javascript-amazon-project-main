@@ -1,4 +1,6 @@
 # Amazon Clone Project
+#
+**This project is originally based on [SuperSimpleDev/javascript-amazon-project](https://github.com/SuperSimpleDev/javascript-amazon-project).**
 
 This project is a simplified Amazon-like e-commerce web application built with HTML, CSS, and JavaScript. It demonstrates core e-commerce features such as product listing, shopping cart, checkout, order history, and shipment tracking.
 
